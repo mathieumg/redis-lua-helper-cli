@@ -1,0 +1,4 @@
+#win "testb";
+
+print "Lua test file A!"
+testB("huge success!")

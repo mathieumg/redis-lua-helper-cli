@@ -1,0 +1,3 @@
+local testB = function (message)
+  print ("Lua test file B! and " .. message)
+end
