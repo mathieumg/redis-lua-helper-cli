@@ -1,6 +1,6 @@
 {
   "name": "redis-lua-helper-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CLI tool for redis-lua-helper",
   "files": [
     "cliWrapper",
