@@ -35,6 +35,6 @@
   },
   "dependencies": {
     "redis-lua-helper": "^0.2.0",
-    "yargs": "^4.2.0"
+    "yargs": "^10.0.3"
   }
 }
